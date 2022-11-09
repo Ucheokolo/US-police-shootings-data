@@ -25,11 +25,11 @@ It's also interesting to see that whites make up 50% of these shootings and also
 ## Key Insights for Presentation
 
 In reality, This data does not support claims of racially motivated killings by police. Suprisingly, it does show the decline in the number of this shootings in recent years.
-![image.png](attachment:image.png)
+<img src="images/race_shootings.png" alt="">
 
 
 The age range involved in most police shootings are between 20years and 40years. The numbers reduce significantly in older population.
-![image-5.png](attachment:image-5.png)
+<img src="images/suspects_age.png" alt="">
 
 
 
